@@ -1,14 +1,12 @@
-### Hi there 👋
-
-#### Aregawi ⚡ Here
+<h1 align='center'>
+  Hi there 👋 I'm Alexandre 👨‍💻
+</h1>
 
 I'm a passionate Full stack software developer.
 Mainly writes Java application and strong background and interest in Machine Learning
 
 <hr/>
 <img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
-
-[![Linkedin Badge](https://img.shields.io/badge/-aregawihalefom-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aregawi-halefom/)](https://www.linkedin.com/in/aregawi-halefom/)
 
 <a href="https://www.linkedin.com/in/aregawi-halefom/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
