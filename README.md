@@ -9,7 +9,7 @@ I'm a passionate software developer, mainly writes in Java
 <img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
 
 [![Linkedin Badge](https://img.shields.io/badge/-aregawihalefom-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aregawi-halefom/)](https://www.linkedin.com/in/aregawi-halefom/)
-[![Website Badge](https://img.shields.io/badge/-jayraj.co.in-e34f26?style=flat-square&logo=HTML5&logoColor=white&link=https://aregawihalefom.com/)](https://aregawihalefom.com/)
+[![Website Badge](https://img.shields.io/badge/-aregawohalefom.com?style=flat-square&logo=HTML5&logoColor=white&link=https://aregawihalefom.com/)](https://aregawihalefom.com/)
 ## ⚡ Interest:
 - Software Developement
 - Machine Learning
