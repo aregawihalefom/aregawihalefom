@@ -1,8 +1,8 @@
-<h1 align='center'>
+<h2 >
   Hi there 👋 I'm Aregawi 👨‍💻
-</h1>
+</h2>
 
-I'm a passionate Full stack software developer.
+I'm a passionate Full stack software developer. </br>
 Mainly writes Java application and have strong background and interest in Machine Learning
 
 <hr/>
