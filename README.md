@@ -2,14 +2,14 @@
 
 #### Aregawi ⚡ Here
 
-I'm a passionate software developer, mainly writes in Java
-
+I'm a passionate Full stack software developer.
+Mainly writes Java application and strong background and interest in Machine Learning
 
 <hr/>
 <img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
 
 [![Linkedin Badge](https://img.shields.io/badge/-aregawihalefom-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aregawi-halefom/)](https://www.linkedin.com/in/aregawi-halefom/)
-[![Website Badge](https://img.shields.io/badge/-aregawohalefom.com?style=flat-square&logo=HTML5&logoColor=white&link=https://aregawihalefom.com/)](https://aregawihalefom.com/)
+[![Linkedin Badge](https://img.shields.io/badge/-aregawihalefom-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aregawi-halefom/)](https://www.linkedin.com/in/aregawi-halefom/)
 ## ⚡ Interest:
 - Software Developement
 - Machine Learning
