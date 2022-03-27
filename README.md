@@ -1,5 +1,5 @@
 <h1 align='center'>
-  Hi there 👋 I'm Alexandre 👨‍💻
+  Hi there 👋 I'm Aregawi 👨‍💻
 </h1>
 
 I'm a passionate Full stack software developer.
