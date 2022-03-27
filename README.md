@@ -3,7 +3,7 @@
 </h1>
 
 I'm a passionate Full stack software developer.
-Mainly writes Java application and strong background and interest in Machine Learning
+Mainly writes Java application and have strong background and interest in Machine Learning
 
 <hr/>
 <img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
@@ -12,8 +12,8 @@ Mainly writes Java application and strong background and interest in Machine Lea
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="https://aregawihalefom.com">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
-  </a>
+https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white
+</a>
   
 ## ⚡ Interest:
 - Software Developement
