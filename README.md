@@ -9,6 +9,7 @@ Mainly writes Java application and strong background and interest in Machine Lea
 <img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
 
 [![Linkedin Badge](https://img.shields.io/badge/-aregawihalefom-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aregawi-halefom/)](https://www.linkedin.com/in/aregawi-halefom/)
+https://img.shields.io/badge/Matomo-3152A0?style=for-the-badge&logo=Matomo&logoColor=white
 ## ⚡ Interest:
 - Software Developement
 - Machine Learning
