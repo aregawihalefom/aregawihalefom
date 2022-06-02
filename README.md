@@ -2,7 +2,7 @@
   Hi there 👋 I'm Aregawi 👨‍💻
 </h2>
 
-I'm a passionate Full stack software developer. </br>
+I'm a passionate Software Engineer. </br>
 Mainly writes Java application and have strong background and interest in Machine Learning
 
 <hr/>
